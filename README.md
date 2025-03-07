@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Aysu Yildirim and I'm an Engineer and Data Scientist from Berlin </h2>
 <div class="github-bio">
-    <p>Geliştirici Blogu | Yazılım Geliştirme İpuçları | Teknoloji Notları.</p>
+    <p>Geliştirici Blogu | Yazılım Geliştirme İpuçları | Teknoloji Notları</p>
     <p>Yazılım geliştirme yolculuğumu ve öğrendiklerimi paylaşıyorum.</p>
   </div>
 ###

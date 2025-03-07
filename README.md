@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aysu Yildirim and I'm an Engineer and Data Scientist, from Berlin </h2>
+<h2 align="left">Hi 👋! My name is Aysu Yildirim and I'm an Engineer and Data Scientist from Berlin </h2>
 
 ###
 
